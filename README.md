@@ -5,7 +5,8 @@
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
-  <li><b>JavaScript</b> - vanilla</li>
+  <li><b>JavaScript</b> - vanilla - Node.Js - express</li>
+  <li>MySQL</li>
 </ul>
 
 <h2>✨ Funcionalidades</h2>
